@@ -1,5 +1,5 @@
 import nltk
-import numpy
+# import numpy
 import tweets
 
 if __name__ == '__main__':
